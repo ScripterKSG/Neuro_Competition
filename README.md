@@ -4,4 +4,4 @@ imbalanced training dataset of over 175,000 False observations and less than 3,0
 
 Against 55 other pairs of contestants made of around 100 students at Rice University, I placed 20th individually.
 
-See Neuro Competition.ipynb for the model used.
+See Neuro Competition.ipynb for the models trained and evaluated.
