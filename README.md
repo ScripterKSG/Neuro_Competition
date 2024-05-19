@@ -3,3 +3,5 @@ would form a connection (a synapse) and to also determine the most significant f
 imbalanced training dataset of over 175,000 False observations and less than 3,000 True observations. 
 
 Against 55 other pairs of contestants made of around 100 students at Rice University, I placed 20th individually.
+
+See Neuro Competition.ipynb for the model used.
